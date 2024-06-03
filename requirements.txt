@@ -1,0 +1,6 @@
+crewai
+langchain-openai
+pyowm
+python-dotenv
+unstructured
+langchain_groq
